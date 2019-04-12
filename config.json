@@ -1,0 +1,7 @@
+{
+  "ws": {
+    "port": 8085,
+    "inactivityTime": 40000,
+    "loginTime": 8000
+  }
+}
